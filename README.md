@@ -13,10 +13,18 @@ Sms</a>
 
 # Then
 ```
-$pkg update
-$pkg upgrade
-$pkg intall git (for cloning git)
-$pkg install python
-$pkg install python2
-$pkg install python3
-$pkg install nano (for edit anything)
+>pkg update
+>pkg upgrade
+>pkg intall git (for cloning git)
+>pkg install python
+>pkg install python2
+>pkg install python3
+```
+# Devolopers tool
+
+```
+>pkg install nano (for edit anything)
+```
+# For remove any pkg
+```
+>rm -rf (pkg name)
