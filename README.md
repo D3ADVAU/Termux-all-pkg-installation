@@ -12,7 +12,7 @@
 </p>
 <h1 align="center">All Pkg installasions</h1><p align="center">
 
-# Download termux & install termux then
+# 📥 Download Termux👉<a href="https://play.google.com/store/apps/details?id=com.termux&hl=en">Termux</a>
 
 # Then
 - `pkg update` 
